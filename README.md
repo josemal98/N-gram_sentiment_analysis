@@ -9,7 +9,7 @@ Este repositorio forma parte de un proyecto de la asignatura de Procesamiento de
 
 En términos generales, el proyecto consiste en desarrollar, entrenar y evaluar el desempeño de un modelo de lenguaje basado en N-gramas para clasificar la polaridad (positivo o negativo) de los distintos textos que conforman a un corpus. 
 
-**Integrantes de equipo**
+## Integrantes de equipo
 
 - Pivac Alcaraz Estephania
 - Barreras Maldonado José Carlos
