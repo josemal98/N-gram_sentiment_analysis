@@ -1,1 +1,12 @@
+El conjunto de datos se encuentra completamente en el archivo train.csv
 
+El conjunto de datos consta de 4417 renglones (el 85 % del conjunto de datos original. El otro 15 % será utilizado como conjunto de prueba), uno por cada opinión. Cada renglón contiene 9 columnas:
+
+1. Title: El título que el propio turista le otorgó a su opinión. Tipo de dato: Texto 
+2. Opinion: La opinión emitida por el turista. Tipo de dato: Texto
+3. Place: El lugar turístico que visitó el turista y al cual va dirigida la opinión. Tipo de dato: Texto
+4. Gender:  El género del turista. Tipo de dato: [Male, Female, N/I] (N/I = Not Information)
+5. Age: La edad del turista al momento de emitir la opinión. Tipo de dato; Entero ( -1 = Not Information)
+6. Country: País de origen del turista: Tipo de dato: Texto (En español) (N/I = Not Information)
+7. Date: Fecha en la que se emitió la opinión. Tipo de dato: Fecha
+8. Label: La etiqueta que representa la polaridad de la opinión. 0: Negativa 1: Positiva
