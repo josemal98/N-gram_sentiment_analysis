@@ -7,7 +7,7 @@ Este repositorio forma parte de un proyecto de la asignatura de Procesamiento de
   <img src="https://github.com/josemal98/Cheap_flights_Airflow/assets/90294947/559ccb14-a5d8-4861-9f82-df1a9f4ea62a" alt="Logo MCD" width="20%" height="20%">
 </p>
 
-En términos generales, el proyecto consiste en desarrollar, entrenar y evaluar el desempeño de un modelo de lenguaje basado en N-gramas para clasificar la polaridad (positivo o negativo) de los distintos textos que conforman a un corpus. 
+En términos generales, el proyecto consiste en desarrollar, entrenar y evaluar el desempeño de un modelo de lenguaje basado en N-gramas para clasificar la polaridad (positivo o negativo) de los distintos textos que conforman a un corpus. 123
 
 ## Integrantes de equipo
 
